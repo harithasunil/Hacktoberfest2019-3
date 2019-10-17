@@ -16,6 +16,8 @@
     <a href="https://github.com/wajahatkarim3/Hacktoberfest2019/fork">
             <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"></img>
         </a>   
+        Make sure there are no conflicts 
+
     <a href="https://saythanks.io/to/wajahatkarim3">
         <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg"></img>
     </a>  <a href="https://www.paypal.me/WajahatKarim/5">
